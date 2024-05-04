@@ -1,0 +1,19 @@
+.search{
+display: flex;
+flex-direction: column;
+width: 400px;
+border-radius: 20px;
+background: #f7f7f7;
+height: 100px;
+}
+
+.label{
+font-weight: bold;
+margin: 10px auto;
+}
+.input{
+    border: 1px solid;
+    width: 300px;
+    margin: 0 auto;
+    height: 30px;
+}
